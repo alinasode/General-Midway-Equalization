@@ -8,7 +8,7 @@ Example runs using N={2,3,4} grayscale images avaliable in jypitor notebook
 
 It is a requirement that all images have same dimensions.
 
-## Intuitions behind the math ##
+## Very short intuitions behind code ##
 
 
 
