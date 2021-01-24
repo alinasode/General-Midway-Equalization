@@ -1,6 +1,6 @@
 # General Midway Equalization #
 
-Python implementation of general midway equalization using arbitrary number of grayscale images.
+Python implementation of general midway equalization using arbitrary number of grayscale images, <img src="https://render.githubusercontent.com/render/math?math=N \geq 2">.
 
 Example runs using <img src="https://render.githubusercontent.com/render/math?math=N=\{2,3,4\}"> grayscale images avaliable in the following jypitor notebook
 
