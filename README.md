@@ -21,7 +21,7 @@ The midway specification method can be generalized to _N_ arbitrary number of im
 where <img src="https://render.githubusercontent.com/render/math?math=\tilde{I}_n = \varphi \big( C_n (I_n) \big)"> for <img src="https://render.githubusercontent.com/render/math?math=n \in \{1,...,N \}"> and  <img src="https://render.githubusercontent.com/render/math?math=p \in \{1,...,N \}">.
 
 I refer to `utils/functions.py` for detailed implementation. 
-For further describtions and alternative methods I refer [[1]](#1).
+For further describtions and alternative methods I refer to [[1]](#1).
 
 ## How to run existing code ##
 
