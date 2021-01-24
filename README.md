@@ -10,12 +10,11 @@ It is a requirement that all images have same dimensions.
 
 ## Very short intuitions behind code ##
 
-
-
-
 The midway specification method can be generalized to N arbitrary number of images. Specifically
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cvarphi%20%28x%29%20%3D%20%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bp%3D1%7D%5E%7BN%7D%20C_%7Bp%7D%5E%7B-1%7D%28x%29%0A%0Awhere%20%24%5Ctilde%7BI%7D_n%20%3D%20%5Cvarphi%20%5Cbig%28%20C_n%20%28I_n%29%20%5Cbig%29%24%2C%20for%20%24n%20%5Cin%20%5C%7B1%2C...%2CN%20%5C%7D%24%20and%20%24p%20%5Cin%20%5C%7B1%2C...%2CN%20%5C%7D%24.&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\varphi (x) = \frac{1}{N} \sum_{p=1}^{N} C_{p}^{-1}(x)where $\tilde{I}_n = \varphi \big( C_n (I_n) \big)$, for $n \in \{1,...,N \}$ and $p \in \{1,...,N \}$." width="518" height="96" />
+
+ $$C$$ denotes the normalized culumative histogram of a grayscale image and $C^{-1}$ the pseudo-inverse of $C$.
 
 I Refer to `utils/functions.py` for detailed implementation. And for further describtions and alternative methods I refer [[1]](#1).
 
