@@ -11,9 +11,16 @@ It is a requirement that all images have same dimensions.
 ## Very short intuitions behind code ##
 
 
-For further describtions and alternative methods I refer [[1]](#1).
 
-Refer to `utils/functions.py` for detail implementation.
+
+The midway specification method can be generalized to N arbitrary number of images. Specifically,
+
+
+where 
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+I Refer to `utils/functions.py` for detail implementation. And for further describtions and alternative methods I refer [[1]](#1).
 
 ## How to run existing code ##
 
