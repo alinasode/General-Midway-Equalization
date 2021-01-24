@@ -11,7 +11,7 @@ It is a requirement that all images have same dimensions.
 ## Very short intuitions behind code ##
 
 
-
+For further describtions and alternative methods I refer [[1]](#1).
 
 Refer to `utils/functions.py` for detail implementation.
 
@@ -22,3 +22,9 @@ Refer to `utils/functions.py` for detail implementation.
 * __Step 3__: Run codes from `utils/functions.py` and plot results.
 
 Try it out yourself, and if you have any question don't hesitates to create an issue. Cheers!
+
+
+## References ##
+
+<a id="1">[1]</a> 
+G. Thierry and D. Julie (2016). "Implementation of the Midway Image Equalization". In: _Image Processing On Line_ 5:114-12. DOI: [10.5201/ipol.2016.140](http://www.ipol.im/pub/art/2016/140/?utm_source=doi "Named link title")
