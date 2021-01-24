@@ -27,4 +27,4 @@ Try it out yourself, and if you have any question don't hesitates to create an i
 ## References ##
 
 <a id="1">[1]</a> 
-G. Thierry and D. Julie (2016). "Implementation of the Midway Image Equalization". In: _Image Processing On Line_ 5:114-12. DOI: [10.5201/ipol.2016.140](http://www.ipol.im/pub/art/2016/140/?utm_source=doi "Named link title")
+Thierry Guillemot and Julie Delon. _Implementation of the Midway Image Equalization_. In: "Image Processing On Line, 6 (2016), pp. 114-129. DOI: [10.5201/ipol.2016.140](http://www.ipol.im/pub/art/2016/140/?utm_source=doi "Named link title")
