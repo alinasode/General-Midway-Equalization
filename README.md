@@ -16,9 +16,8 @@ It is a requirement that all images have same dimensions.
 The midway specification method can be generalized to N arbitrary number of images. Specifically,
 
 
-<img src="https://latex.codecogs.com/gif.latex?\tilde{I} = \varphi() "/> 
+where <img src="https://latex.codecogs.com/gif.latex?\tilde{I} = \phi \big( C_1 (I) \big) "/> 
 
-where <img src="https://render.githubusercontent.com/render/math?math= \tilde{I} = \varphi()">
 
 I Refer to `utils/functions.py` for detail implementation. And for further describtions and alternative methods I refer [[1]](#1).
 
