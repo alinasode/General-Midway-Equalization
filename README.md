@@ -4,7 +4,9 @@ Python implementation of general midway equalization using arbitrary number of g
 
 Example runs using <img src="https://render.githubusercontent.com/render/math?math=N=\{2,3,4\}"> grayscale images avaliable in the following jypitor notebook
 
-`general_midway_equalization.ipynb`
+```
+general_midway_equalization.ipynb
+```
 
 It is a requirement that all images have same dimensions.
 
