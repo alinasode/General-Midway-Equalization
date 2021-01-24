@@ -12,14 +12,13 @@ It is a requirement that all images have same dimensions.
 
 
 
+
+Refer to `utils/functions.py` for detail implementation.
+
 ## How to run existing code ##
 
-* Step 1: Open `general_midway_equalization.ipynb`.
-* Step 2: Load N number grayscale images and make sure they all have same dimension. Stack them on top of each others either in a list or array.
-* Step 3: Run codes from `utils/functions.py` and plot results.
- 
- 
- 
-Refer to `utils/functions.py` for detail implementation.
+* __Step 1__: Open `general_midway_equalization.ipynb`.
+* __Step 2__: Load N number grayscale images and make sure they all have same dimension. Stack them on top of each others either in a list or array.
+* __Step 3__: Run codes from `utils/functions.py` and plot results.
 
 Try it out yourself, and if you have any question don't hesitates to create an issue. Cheers!
