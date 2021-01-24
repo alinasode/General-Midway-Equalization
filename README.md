@@ -18,6 +18,9 @@ The midway specification method can be generalized to N arbitrary number of imag
 
 where <img src="https://latex.codecogs.com/gif.latex?\tilde{I} = \phi \big( C_1 (I) \big) "/> 
 
+\begin{equation*}
+P(E)   = {n \choose k} p^k (1-p)^{ n-k} 
+\end{equation*}
 
 I Refer to `utils/functions.py` for detail implementation. And for further describtions and alternative methods I refer [[1]](#1).
 
