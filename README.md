@@ -2,7 +2,7 @@
 
 Python implementation of general midway equalization using arbitrary number of grayscale images.
 
-Example runs using _N={2,3,4}_ grayscale images avaliable in the following jypitor notebook
+Example runs using <img src="https://render.githubusercontent.com/render/math?math=N=\{2,3,4\}"> grayscale images avaliable in the following jypitor notebook
 
 `general_midway_equalization.ipynb`
 
@@ -12,7 +12,6 @@ It is a requirement that all images have same dimensions.
 
 Let <img src="https://render.githubusercontent.com/render/math?math=C"> denotes the normalized culumative histogram of a grayscale image, <img src="https://render.githubusercontent.com/render/math?math=I">, and <img src="https://render.githubusercontent.com/render/math?math=C^{-1}"> the pseudo-inverse of <img src="https://render.githubusercontent.com/render/math?math=C">.
  
-
 The midway specification method can be generalized to _N_ arbitrary number of images. Specifically
 
 <img src="https://render.githubusercontent.com/render/math?math=\varphi (x) = \frac{1}{N} \sum_{p=1}^{N} C_{p}^{-1}(x)">
@@ -25,7 +24,7 @@ For further describtions and alternative methods I refer [[1]](#1).
 ## How to run existing code ##
 
 * __Step 1__: Open `general_midway_equalization.ipynb`.
-* __Step 2__: Load N number grayscale images and make sure they all have same dimension. Stack them on top of each others either in a list or array.
+* __Step 2__: Load _N_ number grayscale images and make sure they all have same dimension. Stack them on top of each others either in a list or array.
 * __Step 3__: Run codes from `utils/functions.py` and plot results.
 
 Try it out yourself, and if you have any question don't hesitates to create an issue. Cheers!
