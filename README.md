@@ -15,12 +15,11 @@ It is a requirement that all images have same dimensions.
 
 The midway specification method can be generalized to N arbitrary number of images. Specifically,
 
+<img src="http://www.sciweavers.org/tex2img.php?eq=%5Ctilde%7BI%7D_p%20%3D%20%5Cvarphi%20%28I_p%29%20%3D%20%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20C_%7Bi%7D%5E%7B-1%7D%28I_p%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\tilde{I}_p = \varphi (I_p) = \frac{1}{N} \sum_{i=1}^{N} C_{i}^{-1}(I_p)" width="203" height="53" />
+
 
 where <img src="https://latex.codecogs.com/gif.latex?\tilde{I} = \phi \big( C_1 (I) \big) "/> 
 
-\begin{equation*}
-P(E)   = {n \choose k} p^k (1-p)^{ n-k} 
-\end{equation*}
 
 I Refer to `utils/functions.py` for detail implementation. And for further describtions and alternative methods I refer [[1]](#1).
 
