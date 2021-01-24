@@ -1,5 +1,3 @@
-require 'kramdown'
-
 # General Midway Equalization #
 
 Python implementation of general midway equalization using arbitrary number of grayscale images.
@@ -11,15 +9,6 @@ Example runs using N={2,3,4} grayscale images avaliable in jypitor notebook
 It is a requirement that all images have same dimensions.
 
 ## Very short intuitions behind code ##
-
-$$
-M = \left( \begin{array}{ccc}
-x_{11} & x_{12} & \ldots \\
-x_{21} & x_{22} & \ldots \\
-\vdots & \vdots & \ldots \\
-\end{array} \right)
-$$
-
 
 The midway specification method can be generalized to N arbitrary number of images. Specifically
 
