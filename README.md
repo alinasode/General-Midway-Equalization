@@ -1,3 +1,5 @@
+require 'kramdown'
+
 # General Midway Equalization #
 
 Python implementation of general midway equalization using arbitrary number of grayscale images.
