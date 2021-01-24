@@ -19,10 +19,6 @@ The midway specification method can be generalized to _N_ arbitrary number of im
 
 where <img src="https://render.githubusercontent.com/render/math?math=\tilde{I}_n = \varphi \big( C_n (I_n) \big)"> for <img src="https://render.githubusercontent.com/render/math?math=n \in \{1,...,N \}"> and  <img src="https://render.githubusercontent.com/render/math?math=p \in \{1,...,N \}">.
 
-
-<img src="https://render.githubusercontent.com/render/math?math=C"> denotes the normalized culumative histogram of a grayscale image and <img src="https://render.githubusercontent.com/render/math?math=C^{-1}"> the pseudo-inverse of <img src="https://render.githubusercontent.com/render/math?math=C">.
- 
-
 I refer to `utils/functions.py` for detailed implementation. 
 For further describtions and alternative methods I refer [[1]](#1).
 
