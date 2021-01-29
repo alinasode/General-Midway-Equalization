@@ -21,7 +21,7 @@ The midway equalization method can be generalized to _N_ arbitrary number of ima
 where <img src="https://render.githubusercontent.com/render/math?math=\tilde{I}_n = \varphi \big( C_n (I_n) \big)"> for <img src="https://render.githubusercontent.com/render/math?math=n \in \{1,...,N \}"> and  <img src="https://render.githubusercontent.com/render/math?math=p \in \{1,...,N \}">.
 
 I refer to `utils/functions.py` for detailed implementation. 
-For further describtions and alternative methods I refer to [[1]](#1).
+For further describtions and alternative methods please see [[1]](#1) and [[2]](#2).
 
 ## How to run existing code ##
 
@@ -35,4 +35,8 @@ Try it out yourself, and if you have any questions don't hesitates to create an 
 ## References ##
 
 <a id="1">[1]</a> 
+Julie Delon. _Midway Image Equalization_. In: "Journal of Mathematical Imaging and Vision", Springer
+Verlag, 2004, 21 (2), pp.119-134. ff10.1023/B:JMIV.0000035178.72139.2dff. ffhal-02269045
+
+<a id="1">[2]</a> 
 Thierry Guillemot and Julie Delon. _Implementation of the Midway Image Equalization_. In: "Image Processing On Line", 6 (2016), pp. 114-129. DOI: [10.5201/ipol.2016.140](http://www.ipol.im/pub/art/2016/140/?utm_source=doi "Named link title")
