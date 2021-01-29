@@ -36,7 +36,7 @@ Try it out yourself, and if you have any questions don't hesitates to create an 
 
 <a id="1">[1]</a> 
 Julie Delon. _Midway Image Equalization_. In: "Journal of Mathematical Imaging and Vision", Springer
-Verlag, 2004, 21 (2), pp.119-134. ff10.1023/B:JMIV.0000035178.72139.2dff. ffhal-02269045
+Verlag, 21 (2), pp.119-134 (2004). DOI: [10.1023/ipol.10.1023](https://doi.org/10.1023/B:JMIV.0000035178.72139.2d "Named link title")
 
 <a id="1">[2]</a> 
 Thierry Guillemot and Julie Delon. _Implementation of the Midway Image Equalization_. In: "Image Processing On Line", 6 (2016), pp. 114-129. DOI: [10.5201/ipol.2016.140](http://www.ipol.im/pub/art/2016/140/?utm_source=doi "Named link title")
