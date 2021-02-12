@@ -29,6 +29,9 @@ For further describtions and alternative methods please see [[1]](#1) and [[2]](
 * __Step 2__: Load _N_ number grayscale images and make sure they all have same dimension. Stack them on top of each others either in a list or array.
 * __Step 3__: Run codes from `utils/functions.py` and plot results.
 
+
+- - - -
+
 Try it out yourself, and if you have any questions don't hesitates to create an issue. Cheers!
 
 
