@@ -5,7 +5,7 @@ def cumHist(Img):
     Takes as input a gray scale image.
     Returns its normalized cumulative histogram.
     """
-    pdf, _ = np.histogram(Img, bins=range(257))
+    pdf = np.histogram(Img, bins=range(0,257))[0]
     cdf = np.cumsum(pdf).astype(float)
     cdf = cdf / np.sum(pdf)
     return cdf
