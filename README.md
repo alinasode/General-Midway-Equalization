@@ -14,7 +14,7 @@ It is a requirement that all images have same dimensions.
 
 Let <img src="https://render.githubusercontent.com/render/math?math=C"> denotes the normalized culumative histogram of a grayscale image, <img src="https://render.githubusercontent.com/render/math?math=I">, and <img src="https://render.githubusercontent.com/render/math?math=C^{-1}"> the pseudo-inverse of <img src="https://render.githubusercontent.com/render/math?math=C">.
  
-The midway equalization method can be generalized to _N_ arbitrary number of images. Specifically
+The midway equalization method can be generalized to _N_ arbitrary number of images. Specifically,
 
 <img src="https://render.githubusercontent.com/render/math?math=\varphi (x) = \frac{1}{N} \sum_{p=1}^{N} C_{p}^{-1}(x)">
 
